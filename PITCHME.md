@@ -59,11 +59,8 @@
 
 +++?image=assets/images/avtobys.jpg&size=auto 100%
 +++?image=assets/images/desktop.gif&size=auto 100%
-
-+++
-
-![phone1](assets/images/phone1.gif)
-![phone2](assets/images/phone2.gif)
++++?image=assets/images/phone1.gif&size=auto 100%
++++?image=assets/images/phone2.gif&size=auto 100%
 
 ---
 
