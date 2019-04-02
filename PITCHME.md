@@ -46,8 +46,9 @@
 
 ## Константин
 
-- возглавляет Consulting Department
+- Head of Consulting Department
 
++++?image=assets/images/orchestra.png&size=auto 100%
 +++?image=assets/images/structure.png&size=auto 100%
 
 ---
