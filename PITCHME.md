@@ -73,6 +73,13 @@
 - sq
 - product
 
++++
+
+![insta-geo](assets/images/insta-geo.jpg)
+![insta-age](assets/images/insta-age.jpg)
+
++++?image=assets/images/vk-geo&size=auto 100%
+
 ---
 
 
